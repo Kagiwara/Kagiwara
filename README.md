@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kagiwara
 - 👀 I’m interested in anime, games.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning in BGITU
+- 💞️ I’m looking to collaborate on my friend
 - 📫 How to reach me ...
 
 <!---
